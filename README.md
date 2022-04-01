@@ -40,9 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![stop button](https://imgur.com/3tfmbDU)
-![lose game](https://imgur.com/E2CjOu5e)
-![win game](https://imgur.com/Zk944d7)
+[stop button](https://imgur.com/3tfmbDU)
+[lose game](https://imgur.com/E2CjOu5e)
+[win game](https://imgur.com/Zk944d7)
+i tried to add the gifs here but i could only manage to add links to the imgur site, sorry
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
