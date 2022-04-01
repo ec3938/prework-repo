@@ -43,7 +43,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](wongame.gif)
 ![](lostgame.gif)
 ![](stopbutton.gif)
-i tried to add the gifs here but i could only manage to add links to the imgur site, sorry
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
