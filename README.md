@@ -67,7 +67,7 @@ If I had a few more hours to work on this project, I would want to change the bu
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/K1ncgBesJs0)
 
 
 ## License
