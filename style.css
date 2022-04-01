@@ -1,0 +1,82 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box */
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+/* adjust typography defaults */
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: rgb(250,248,249);
+  color: rgb(209,166,173);
+  margin: 2em;
+}
+
+h1 {
+  font-family: courier new, arial, serif;
+}
+
+button {
+  font-family: courier new, arial, serif;
+  color: rgb(229,153,153);
+  padding: 10px;
+  background: rgb(255,255,255);
+  border-radius: 50%;
+  border-color: rgb(229,153,153);
+  
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+#button1 { /* green button */
+  background: rgb(230,246,237);
+  border-color: rgb(124,188,120);
+}
+#button2 { /* blue button */
+  background: rgb(203,236,246);
+  border-color: rgb(141,184,212);
+}
+#button3 { /* pink button */
+  background: rgb(246,230,237);
+  border-color: rgb(213,147,189);
+}
+#button4 { /* yellow button */
+  background: rgb(249, 245, 195);
+  border-color: rgb(240,211,160);
+}
+
+#button1:active, #button1.lit  {
+  background: rgb(189, 240, 187);
+}
+#button2:active, #button2.lit  {
+  background: rgb(136,193,238);
+}
+#button3:active, #button3.lit {
+  background: rgb(238, 189, 211);
+}
+#button4:active, #button4.lit {
+  background: rgb(238, 221, 137);
+}
+
+.hidden {
+  display: none;
+}
+
+/* images and videos max out at full width */
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
