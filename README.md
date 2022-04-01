@@ -4,7 +4,7 @@
 
 Submitted by: **Evie Cundy**
 
-Time spent: **9** hours spent in total
+Time spent: **13** hours spent in total
 
 Link to project: https://small-curvy-potato.glitch.me
 
